@@ -1,7 +1,7 @@
 # EX-NO-12-ELGAMAL-ALGORITHM
 
 
-## NAME: praveen ck
+## NAME:praveen ck
 ## REG NO:212222243003
 
 
